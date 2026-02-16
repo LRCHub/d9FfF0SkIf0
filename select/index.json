@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "CRYST@LOUD",
+  "base_artist": "天海春香、渋谷 凛、伊吹 翼、天道 輝、八宮めぐる from THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023",
+  "createdAt": "2026-02-16T19:38:33.197400Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CRYST@LOUD",
+      "artist": "天海春香、渋谷 凛、伊吹 翼、天道 輝、八宮めぐる from THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023",
+      "has_synced": false,
+      "path": "select/pl_01_CRYST@LOUD_天海春香、渋谷_凛、伊吹_翼、天道_輝、八宮めぐる_from_THE_IDOLM@STER_M@STERS_OF_IDOL_WORLD!!!!!_2023.txt"
+    }
+  ]
+}
